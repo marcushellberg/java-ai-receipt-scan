@@ -1,4 +1,4 @@
-# AI Receipt Scanner demo
+# AI Receipt Scanner demo in Java
 
 This demo app shows you how to extract information from a receipt using Spring AI. 
 It uses Spring AI to extract the information from the receipt and Vaadin Flow to build the UI.
